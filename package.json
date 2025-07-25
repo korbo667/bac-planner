@@ -1,0 +1,5 @@
+{
+  "name": "bac-planner",
+  "private": true,
+  "workspaces": ["apps/*"]
+}
